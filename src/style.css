@@ -1,0 +1,103 @@
+* {
+  margin: 0;
+  overflow: auto;
+}
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+.btn {
+  height: 50px;
+  width: 420px;
+  padding: 13px 10px 25px 10px;
+  background-color: #220930;
+  color: white;
+  border-radius: 5px;
+  margin-top: 25px;
+  overflow: hidden;
+  font-size: 20px;
+}
+.front {
+  position: absolute;
+  margin-left: 150px;
+  margin-top: -600px;
+}
+.back {
+  position: absolute;
+  margin-left: 220px;
+  margin-top: -300px;
+}
+.flexbox {
+  display: flex;
+}
+.card-details {
+  margin-left: 270px;
+  margin-top: 150px;
+}
+input {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.box1 {
+  width: 400px;
+  height: 40px;
+  padding-left: 15px;
+  border-radius: 5px;
+}
+.box2 {
+  width: 80px;
+  height: 35px;
+  padding-left: 15px;
+  margin-right: 10px;
+  border-radius: 5px;
+}
+.box3 {
+  width: 150px;
+  height: 35px;
+  padding-left: 15px;
+  border-radius: 5px;
+}
+label {
+  color: red;
+  margin-bottom: 35px;
+}
+.circle1 {
+  position: absolute;
+  margin-top: -220px;
+  margin-left: 30px;
+}
+.circle2 {
+  position: absolute;
+  margin-top: -210px;
+  margin-left: 100px;
+}
+.card-no {
+  position: absolute;
+  color: white;
+  margin-top: -100px;
+  margin-left: 40px;
+  font-size: 30px;
+  letter-spacing: 8px;
+}
+.name {
+  position: absolute;
+  color: white;
+  margin-top: -50px;
+  margin-left: 40px;
+  font-size: 25px;
+  letter-spacing: 2px;
+}
+.Month-Year {
+  position: absolute;
+  color: white;
+  margin-top: -50px;
+  margin-left: 430px;
+  font-size: 20px;
+}
+.CVC {
+  position: absolute;
+  color: white;
+  margin-top: -142px;
+  margin-left: 410px;
+  font-size: 20px;
+}
