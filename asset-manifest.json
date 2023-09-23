@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Credit-Card-Generator/static/css/main.2912d525.css",
+    "main.js": "/Credit-Card-Generator/static/js/main.b906d616.js",
+    "static/media/leftbg.png": "/Credit-Card-Generator/static/media/leftbg.806e7aa7b4dbc1d78bc3.png",
+    "static/media/backcard.png": "/Credit-Card-Generator/static/media/backcard.23f68fa3aa3d5b33dfc8.png",
+    "static/media/frontcard.png": "/Credit-Card-Generator/static/media/frontcard.8153e2ca184402a8385f.png",
+    "index.html": "/Credit-Card-Generator/index.html",
+    "main.2912d525.css.map": "/Credit-Card-Generator/static/css/main.2912d525.css.map",
+    "main.b906d616.js.map": "/Credit-Card-Generator/static/js/main.b906d616.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2912d525.css",
+    "static/js/main.b906d616.js"
+  ]
+}
